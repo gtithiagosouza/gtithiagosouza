@@ -1,8 +1,9 @@
-### Oii, Eu sou Thiago Souza, Tudo bem? 
+### Oii, Sou Thiago Souza, Tudo bem?
 
-Sou de Floripa, tenho 37 anos. Atualmente estudante de ADS pela Descomplica e Figma UI|UX pela Origamid. Sou iniciante na área de programação, mas ja sou formado em Gestão da Tecnologia da informação. Essas são algumas das stacks que estudo atualmente, Caso queira alguma dica ou saber mais de como comecei a estudar desenvolvimente web e UI, pode me procurar nas minhas redes sociais.
-  <br>
-  
+##### 💻 Atualmente estudante de ADS pela Descomplica e Figma UI|UX pela Origamid.
+##### 🎓 Sou iniciante na área de programação, Sou formado em Gestão da Tecnologia da informação.
+ <br>
+ 
 ### Tecnologias e Ferramentas:
 <div style="display: inline_block">
   <img align="center" alt="Thi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -22,7 +23,7 @@ Sou de Floripa, tenho 37 anos. Atualmente estudante de ADS pela Descomplica e Fi
   <br>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gtithiagosouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtithiagosouza&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtithiagosouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
