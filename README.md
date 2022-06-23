@@ -1,4 +1,4 @@
-### Oii, Eu sou Thiago Souza, atualmente estudante de ADS pela Descomplica e Figma UI|UX pela Origamid.  👋
+### Oii, Eu sou Thiago Souza, atualmente estudante de ADS pela Descomplica e Figma UI|UX pela Origamid. 
 
   <br>
   <a href="https://github.com/rafaballerini">
