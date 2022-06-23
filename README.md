@@ -1,7 +1,8 @@
 ### Oii, Sou Thiago Souza, 👋
 
 ##### 💻 Atualmente estudante de ADS pela Descomplica e Figma UI|UX pela Origamid.
-##### 🎓 Sou iniciante na área de programação, Sou formado em Gestão da Tecnologia da informação.
+##### 💻 Iniciante na área de programação, 
+##### 🎓 Formado em Gestão da Tecnologia da informação.
 <br> 
   <a href="https://github.com/gtithiagosouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gtithiagosouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
