@@ -1,4 +1,4 @@
-### Oii, Sou Thiago Souza, Tudo bem?
+### Oii, Sou Thiago Souza, 👋
 
 ##### 💻 Atualmente estudante de ADS pela Descomplica e Figma UI|UX pela Origamid.
 ##### 🎓 Sou iniciante na área de programação, Sou formado em Gestão da Tecnologia da informação.
